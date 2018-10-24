@@ -17,6 +17,21 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
       <ul>
+        {% if site.social-qq %}
+          <li class="qq" title="QQ:{{site.social-qq}}"><a href="qq:{{site.social-qq}}" target="_blank"><i class="fa fa-qq"></i></a></li>
+        {% else %}
+          <li class="qq" title="qq"><a href="javascript:void(0)" target="_blank"><i class="fa fa-qq" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.social-weixin %}
+          <li class="weixin" title="微信:{{site.social-weixin}}"><a href="qq:{{site.social-weixin}}" target="_blank"><i class="fa fa-weixin"></i></a></li>
+        {% else %}
+          <li class="weixin" title="weixin"><a href="javascript:void(0)" target="_blank"><i class="fa fa-weixin" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.social-mobile-phone %}
+          <li class="phone" title="Phone:{{site.social-mobile-phone}}"><a href="qq:{{site.social-mobile-phone}}" target="_blank"><i class="fa fa-mobile-phone"></i></a></li>
+        {% else %}
+          <li class="phone" title="phone"><a href="javascript:void(0)" target="_blank"><i class="fa fa-mobile-phone" aria-hidden="true"></i></a></li>
+        {% endif %}
         {% if site.social-github %}
           <li class="github" title="http://github.com/{{site.social-github}}"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
         {% else %}

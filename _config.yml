@@ -1,4 +1,4 @@
-title: 崔健的个人博客
+title: Blog of Dexter
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,6 +14,9 @@ author-img: author.jpg # add your photo
 about-author: 我是一个web前端开发者. 热爱Coding, 动漫, 美剧, 运动等  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
+social-qq: 1109883925 # add your QQ handle
+social-weixin: cuijianjian94 # add your Weixin handle
+social-mobile-phone: 18701275880 # add your Weixin handle
 social-github: cuijian-dexter # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: 1109883925@qq.com # add your Email address
