@@ -1,46 +1,17 @@
 ---
 layout: post
-title: 我的简历
+title: Markdown下的Diagram
 date: 2018-10-19 17:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Resume]
+tags: [sequenceDiagram, flowChart, formula]
 ---
-git代码行数的命令--查询github仓库的某人的提交量，贡献者的统计，提交数的统计，用于管理团队
 
-##### 统计某人的代码提交量，包括增加，删除：
-　　<code>git log --author="$(git config --get user.name)" --pretty=tformat: --numstat | gawk '{ add += $1 ; subs += $2 ; loc += $1 - $2 } END { printf "added lines: %s removed lines : %s total lines: %s\n",add,subs,loc }' -
-</code>
+#### 流程图
+ 流程图（Flow Chart）：以特定的图形符号加上说明，表示算法的图
 
-***
-##### 仓库提交者排名前 5（如果看全部，去掉 head 管道即可）：
-　　<code>git log --pretty='%aN' | sort | uniq -c | sort -k1 -n -r | head -n 5
-</code>
-
-***
-##### 仓库提交者（邮箱）排名前 5：
-　　<code>git log --pretty=format:%ae | gawk -- '{ ++c[$0]; } END { for(cc in c) printf "%5d %s\n",c[cc],cc; }' | sort -u -n -r | head -n 5
-</code>
-
-***
-##### 贡献者统计：
-　　<code>git log --pretty='%aN' | sort -u | wc -l
-</code>
-
-***
-##### 提交数统计：
-　　<code>git log --oneline | wc -l
-</code>
-
-***
-##### 添加或修改的代码行数：
-　　<code>git log --stat|perl -ne 'END { print $c } $c += $1 if /(\d+) insertions/
-</code>
-
-***
-
-$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
+· 流程图样式
 
 ```flow
 st=>start: Start
@@ -53,9 +24,27 @@ cond(yes)->e
 cond(no)->op
 ```
 
+· 引用js
+
+    flowchart-latest.js和raphael.min.js
+
+
+#### 公式
+ 公式（Formula）：用数学符号表示，各个量之间的一定关系(如定律或定理)的式子，能普遍应用于同类事物的方式方法.
+
+· 公式样式
+
+$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
+
 $$E=mc^2$$
 
-```python
+· 引用js
+
+    MathJax.js
+
+#### 代码块
+
+```Python
 @requires_authorization
 class SomeClass:
     pass
@@ -64,3 +53,25 @@ if __name__ == '__main__':
     # A comment
     print 'hello world'
 ```
+
+#### 序列图
+  序列图（Sequence Diagram）：主要用于按照交互发生的一系列顺序，显示对象之间的这些交互
+
+· 序列图样式
+
+```seq
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+```sequence
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!
+```
+
+· 引用js
+
+    js-sequence-diagrams
