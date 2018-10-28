@@ -1,0 +1,27 @@
+---
+layout: post
+title: 我的个人简历
+date: 2018-10-28 12:45:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: workflow.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Resume]
+---
+#### ![个人信息（Personal Info）](/assets/img/icon/personal_info.png) &nbsp;个人信息（PersonalInfo）
+- 姓 名：崔健
+- 民 族：汉
+* 电 话：18701275880
+* 邮 箱：a1109883925@gmail.com
+* 出生年月：1994.03
++ 身 高：183 cm
++ 兴 趣：阅读,羽毛球,美剧,动漫,桌游,逛论坛等
+
+#### ![教育背景（ Education ）](/assets/img/icon/education.png)&nbsp;教育背景（ Education ）
+
+#### ![个人技能（ Personal Skills ）](/assets/img/icon/personal_skills.png) &nbsp;个人技能（ Personal Skills ）
+
+#### ![工作经验 （ Internship ）](/assets/img/icon/Internship.png) &nbsp;工作经验 （ Internship ）
+
+#### ![技能证书（ Skills Certificate ）](/assets/img/icon/skills_certificate.png) &nbsp;技能证书（ Skills certificate ）
+
+#### ![自我评价（ Self Assessment ）](/assets/img/icon/self_assessment.png) &nbsp;自我评价（ Self Assessment ）

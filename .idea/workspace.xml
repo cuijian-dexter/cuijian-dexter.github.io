@@ -1,79 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa272dc1-557f-4550-9ced-25a25152b69b" name="Default" comment="test 公式">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/danielbd.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/danielbd.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/Font license - Daniel.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbd-original.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbd.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbd.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbd.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbk.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbk.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbk.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flowchart/flowchart-latest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flowchart/raphael.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/DESIGN.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/LICENCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-raphael-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-raphael-min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-snap-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-snap-min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram-snap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/dist/sequence-diagram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/Daniel Midgley.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel_400.font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel_700.font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/daniel_black_900.font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbd-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/danielbk-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/generator_config.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/specimen_files/grid_12-825-55-15.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/specimen_files/specimen_stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/fonts/daniel/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/diagram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/grammar.ebnf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/grammar.jison" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/jquery-plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/sequence-diagram.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/sequence-diagram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/theme-raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/theme-snap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/src/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/align.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/font_test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/grammar-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/qunit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/raphael-mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/snap-mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-2.0.1/test/webfont-mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-deps/snap.svg-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-deps/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/js-sequence-diagrams-deps/webfont.js" />
+    <list default="true" id="aa272dc1-557f-4550-9ced-25a25152b69b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown" afterPath="$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown" afterPath="$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,49 +23,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1591">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1519">
-              <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="diagramInit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/diagramInit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flowchart-latest.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/flowchart/flowchart-latest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="693" column="12" lean-forward="false" selection-start-line="693" selection-start-column="12" selection-end-line="693" selection-end-column="12" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1607">
-              <caret line="90" column="27" lean-forward="false" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
+              <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -143,15 +32,46 @@
       <file leaf-file-name="2018-10-19-git-lines.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="222">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-10-26-my-resume.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown">
+      <file leaf-file-name="2018-10-28-my-resume.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personal_info.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/icon/personal_info.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Internship.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/icon/Internship.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workflow.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/workflow.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-10-26-markdown-diagram.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
               <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
@@ -184,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/outlineTree.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-12">
-              <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+              <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -268,7 +188,6 @@
         <option value="$PROJECT_DIR$/_posts/2018-10-19-test.markdown" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown" />
         <option value="$PROJECT_DIR$/_includes/javascripts.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/assets/js/flowchart/flowchart-latest.js" />
@@ -278,6 +197,8 @@
         <option value="$PROJECT_DIR$/assets/js/outlineTree.js" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown" />
       </list>
     </option>
   </component>
@@ -399,6 +320,46 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuijian-dexter.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuijian-dexter.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuijian-dexter.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuijian-dexter.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -415,20 +376,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cuijian-dexter.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cuijian-dexter.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -492,12 +439,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\icon" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\flowchart" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\js-sequence-diagrams-deps" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\favicon" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\icon" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\_posts" />
     </key>
   </component>
@@ -595,7 +544,7 @@
       <workItem from="1539686904393" duration="242000" />
       <workItem from="1539934665804" duration="8786000" />
       <workItem from="1539945091575" duration="337000" />
-      <workItem from="1540347643948" duration="31862000" />
+      <workItem from="1540347643948" duration="36565000" />
     </task>
     <task id="LOCAL-00001" summary="sdsd">
       <created>1539683615220</created>
@@ -730,16 +679,23 @@
       <option name="project" value="LOCAL" />
       <updated>1540720709056</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test 公式">
+      <created>1540721574869</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540721574869</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47583000" />
+    <option name="totallyTimeSpent" value="52286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="1816" height="1298" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3535123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3535123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -780,6 +736,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.markdown" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -822,19 +781,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/david-freeman.jpg" />
-    <entry file="file://$PROJECT_DIR$/_includes/post-version-selector.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/mac.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -913,63 +859,63 @@
         <state relative-caret-position="2812">
           <caret line="76" column="54" lean-forward="false" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
           <folding>
-            <marker date="1540721459702" expanded="true" signature="4591:4618" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="4591:4629" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="9170:9356" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5745:5752" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5745:6189" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="4544:4550" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="4550:4556" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="4556:4562" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="4563:4569" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="4653:5162" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="4695:4739" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="4806:5151" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="5061:5067" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5067:5073" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5073:5079" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5080:5086" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="5186:5714" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="5228:5274" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5348:5703" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="5613:5619" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5619:5625" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5625:5631" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="5632:5638" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="5738:6263" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="5780:5830" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5901:6252" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="6162:6168" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6168:6174" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6174:6180" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6181:6187" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="6287:6844" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="6329:6375" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="6454:6833" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="6743:6749" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6749:6755" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6755:6761" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="6762:6768" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="6868:7404" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="6910:6952" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="7023:7393" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="7226:7231" ph="&amp;" />
-            <marker date="1540721459702" expanded="false" signature="7303:7309" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7309:7315" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7315:7321" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7322:7328" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="7641:7787" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="7641:7776" ph="..." />
-            <marker date="1540721459702" expanded="false" signature="7686:7692" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7692:7698" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7698:7704" ph=" " />
-            <marker date="1540721459702" expanded="false" signature="7705:7711" ph=" " />
-            <marker date="1540721459702" expanded="true" signature="9193:9347" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="9238:9340" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="9247:9331" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5766:6157" ph="..." />
-            <marker date="1540721459702" expanded="true" signature="5794:6013" ph="{...}" />
-            <marker date="1540721459702" expanded="true" signature="5845:5885" ph="{...}" />
+            <marker date="1540733167432" expanded="true" signature="4591:4618" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="4591:4629" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="9170:9356" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="6273:6280" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="6273:6717" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="4544:4550" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="4550:4556" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="4556:4562" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="4563:4569" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="4653:5162" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="4695:4739" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="4806:5151" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="5061:5067" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5067:5073" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5073:5079" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5080:5086" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="5186:5714" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="5228:5274" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="5348:5703" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="5613:5619" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5619:5625" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5625:5631" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="5632:5638" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="5738:6263" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="5780:5830" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="5901:6252" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="6162:6168" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6168:6174" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6174:6180" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6181:6187" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="6287:6844" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="6329:6375" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="6454:6833" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="6743:6749" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6749:6755" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6755:6761" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="6762:6768" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="6868:7404" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="6910:6952" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="7023:7393" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="7226:7231" ph="&amp;" />
+            <marker date="1540733167432" expanded="false" signature="7303:7309" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7309:7315" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7315:7321" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7322:7328" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="7641:7787" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="7641:7776" ph="..." />
+            <marker date="1540733167432" expanded="false" signature="7686:7692" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7692:7698" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7698:7704" ph=" " />
+            <marker date="1540733167432" expanded="false" signature="7705:7711" ph=" " />
+            <marker date="1540733167432" expanded="true" signature="9193:9347" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="9238:9340" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="9247:9331" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="6294:6685" ph="..." />
+            <marker date="1540733167432" expanded="true" signature="6322:6541" ph="{...}" />
+            <marker date="1540733167432" expanded="true" signature="6373:6413" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1057,17 +1003,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/workflow.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/we-in-rest.jpg">
@@ -1176,7 +1117,7 @@
         <state relative-caret-position="590">
           <caret line="693" column="12" lean-forward="false" selection-start-line="693" selection-start-column="12" selection-end-line="693" selection-end-column="12" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1200,18 +1141,10 @@
     <entry file="file://$PROJECT_DIR$/assets/js/outlineTree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
-          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,18 +1164,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/workflow.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1591">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-my-resume.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/icon/personal_info.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/icon/Internship.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
           <folding />
         </state>
       </provider>
