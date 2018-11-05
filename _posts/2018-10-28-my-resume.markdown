@@ -57,7 +57,7 @@ tags: [Resume]
 基于 HandsonTable， HTML5 前端报表中间件，编写了一套完整的报表解决方案
 6. 运用 vuejs 重构项目
 
-2015.10 -2016.06&nbsp;&nbsp;四川无声科技有限公司&nbsp;&nbsp;前端开发工程师
+2015.10-2016.06&nbsp;&nbsp;四川无声科技有限公司&nbsp;&nbsp;前端开发工程师
 - 负责嘲风网络监控系统的前端工作， 对于页面的代码重构
 - 开发工具：Sublime Text
 - 框架： BootStrap，KnockoutJS，Echarts 等
