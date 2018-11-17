@@ -1,0 +1,59 @@
+---
+layout: post
+title: js技巧篇（二）实现浏览器大屏功能
+date: 2018-11-16 18:02:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: js-1.png
+fig-caption: # Add figcaption (optional)
+tags: [Javascript, skill，Fullscreen]
+---
+简单来说，浏览器的大屏就是触发浏览器的F11功能，将需要绘制的dom绘制出来。需要兼容浏览器
+
+代码如下：
+
+```javascript
+/**
+ *  函数说明:显示全屏的事件
+ *  @param: fullscreenDom 需要全屏的dom
+ */
+onShowFullscreenEvent: function (fullscreenDom) {
+    var fullScreenEvent = fullscreenDom.requestFullScreen
+        || fullscreenDom.webkitRequestFullScreen
+        || fullscreenDom.mozRequestFullScreen
+        || fullscreenDom.msRequestFullScreen;
+
+    if (typeof fullScreenEvent != "undefined" && fullScreenEvent) {
+        fullScreenEvent.call(fullscreenDom);
+        return;
+    }
+    //IE兼容
+    if (typeof window.ActiveXObject != "undefined") {
+        var ieActiveObject = new ActiveXObject("WScript.Shell");
+        if (ieActiveObject) {
+            ieActiveObject.SendKeys("{F11}");
+        }
+    }
+},
+/**
+ *  函数说明:退出全屏的事件
+ */
+onExitFullscreenEvent: function () {
+    var kanbanFullscreenMain = document;
+    var fullScreenEvent = kanbanFullscreenMain.cancelFullScreen
+        || kanbanFullscreenMain.webkitCancelFullScreen
+        || kanbanFullscreenMain.mozCancelFullScreen
+        || kanbanFullscreenMain.exitFullScreen;
+
+    if (typeof fullScreenEvent != "undefined" && fullScreenEvent) {
+        fullScreenEvent.call(kanbanFullscreenMain);
+        return;
+    }
+
+    if (typeof window.ActiveXObject != "undefined") {
+        var ieActiveObject = new ActiveXObject("WScript.Shell");
+        if (ieActiveObject != null) {
+            ieActiveObject.SendKeys("{F11}");
+        }
+    }
+}
+```

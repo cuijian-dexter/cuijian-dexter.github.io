@@ -1,0 +1,63 @@
+---
+layout: post
+title: js技巧篇（一）类型强制转换
+date: 2018-11-16 16:02:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: js-1.png
+fig-caption: # Add figcaption (optional)
+tags: [Javascript, skill]
+---
+#### string类型转number
+
+可以使用 *1来转化为数字（调用的是valueOf方法），再使用Number.isNaN或者a ！= a判断NaN
+
+>'12'*1     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//12
+
+>'aa'*1     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//NaN
+
+>null *1    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//0
+
+>undefined*1    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//NaN
+
+常用：也可以用+来转化字符串为数字,或者-0来转化
+
+>+'12'      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//12
+
+>+'aa'      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//NaN
+
+>+''    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//0
+
+>+null  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//0
+
+>+undefined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//NaN
+
+#### object类型转string
+
+JSON.stringfy(object) 对象字符串化
+
+#### 过滤假值（false）
+
+假值：false, null, 0, "", undefined, NaN, 可以用ES6的Array.filter
+
+>const compact = arr => arr.filter(Boolean)
+
+>compact([0, 1, false, 2, '', 3, 'a', 'e' * 23, NaN, 's', 34])  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// [ 1, 2, 3, 'a', 's', 34 ]
+
+#### 短路运算符
+
+&&和||，是从左到右的运算，前者满足，就不再执行
+&&为取假运算，一假必假
+||为取真运算，一真必真
+
+使用的时候，可以减少多次的if语句，但要小心""也许是想要的
+
+#### 取整  |0
+这个很有用，负数也适用。正数向下取整，负数向上取整
+
+#### 判断奇偶    &1
+和%2功能一致
+>const num=3;
+
+>!!(num & 1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// true
+
+>!!(num % 2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// true

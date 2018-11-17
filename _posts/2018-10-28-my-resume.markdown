@@ -17,13 +17,13 @@ tags: [Resume]
 + 兴 趣：阅读,羽毛球,美剧,动漫,桌游,逛论坛等
 
 #### ![教育背景（ Education ）](/assets/img/education.png)&nbsp;教育背景（ Education ）
-2012.09-2016.06&nbsp;&nbsp;成都信息工程大学&nbsp;&nbsp;软件工程（本科）&nbsp;&nbsp;担任班长一职
+2012.09-2016.06&nbsp;&nbsp;成都信息工程大学&nbsp;&nbsp;软件工程（本科）
 
 #### ![个人技能（ Personal Skills ）](/assets/img/personal_skills.png) &nbsp;个人技能（ Personal Skills ）
-- 熟练掌握应用前端相关技术 JavaScript/HTML/CSS/
 - 熟悉掌握 jQuery，AngularJS，Handsontable， KnockoutJS 等前端框架
 - 熟练使用 widget 插件，gridstack.js 可拖拽插件，require，lodash 工具库和 BootStrap 框架
 - 熟练 Echarts 图表库，并可以进行源码改动,为源码贡献者之一
+- 熟练掌握应用前端相关技术 JavaScript/HTML/CSS/
 - 封装json-rules-engine，使用规则引擎
 - 熟练进行 git 的操作，了解数据库的简单操作。
 - 了解 PHP 并熟练使用相关框架 codeIgnition
@@ -36,18 +36,18 @@ tags: [Resume]
 - 开发工具：Webstorm
 - 框架： jQuery ，Echarts，Handsontable，widget，原生 js 等
 - 职责描述：
-1. 熟练使用 jQuery 和原生 js 开发数据智能系统相关的业务功能
+1. 使用 jQuery 和原生 js 开发数据智能系统相关的业务功能
 2. 负责并完成产品线找客户的设计和开发工作
 3. 修改百度图表库 Echarts 的源码，以保证客户的需求，并增加图表交互的良好
 4. 编写各种组件的前端工作，以保证组件的可复用性和健壮性
-5. 完成数据大屏功能，使用 gridstack 完成视图的随意摆放和拖拽
+5. 完成数据大屏功能，使用 Gridstack 完成视图的随意摆放和拖拽
 6. 完成各种权限控制，Echarts 各图表之间的联动和与其他产品线的穿透
 7. 封装json-rules-engine，满足规则引擎的需求
 
 2016.07-2017.08&nbsp;&nbsp;奥琦玮信息科技（北京）有限公司&nbsp;&nbsp;前端开发工程师
 - 负责云财务系统的前端工作， 完成财务部分模块的前端工作
 - 开发工具：Webstorm
-- 框架： AngularJS，jQuery ，Handsontable，HTML5， CSS3，Echarts，vuejs 等
+- 框架： AngularJS，jQuery ，Handsontable，HTML5， CSS3，Echarts，Vuejs 等
 - 职责描述：
 1. 熟练使用 AngularJS 开发财务系统相关的业务功能
 2. 使用 jQuery 开发相关动态单据表格相关功能
@@ -55,7 +55,7 @@ tags: [Resume]
 4. 使用 Echarts 图表库，并封装成组件，用来开发 BI 相关业务
 5. 独立负责云财务合并报表以及预算模块的报表组件编写
 基于 HandsonTable， HTML5 前端报表中间件，编写了一套完整的报表解决方案
-6. 运用 vuejs 重构项目
+6. 运用 Vuejs 重构项目
 
 2015.10-2016.06&nbsp;&nbsp;四川无声科技有限公司&nbsp;&nbsp;前端开发工程师
 - 负责嘲风网络监控系统的前端工作， 对于页面的代码重构
@@ -73,12 +73,3 @@ tags: [Resume]
 - github-Echarts源码贡献者之一
 - 两次校内奖学金
 - 校内优秀学生干部
-
-#### ![自我评价（ Self Assessment ）](/assets/img/self_assessment.png) &nbsp;自我评价（ Self Assessment ）
-贴近用户有良好的编码习惯以及较深的编码经验，能够编写高质量的生产环境代码；熟悉设计模式，以及开发
-中常见的技术以及设计问题，具备相关的熟练技能；技术学习力强，可以快速进入工作中；未来发展方向为全栈工
-程师、系统架构师。性格随和，为人真诚，幽默风趣；工作认真负责，对自己工作质量要求高；有良好的团队意识，
-能够快速融入团队并与团队形成融洽的合作关系；有恒心有毅力，学习和抗压能力较强；喜欢研究并接受新事物。
-逻辑思维较强，善于寻找技术突破点，勇于创新度互联网从业人员，对互联网保持高度的敏感性和关注度，熟悉产
-品开发流程，有很强的产品规划、需求分析、交互设计能力，能独立承担 APP 和 WEB 项目的管控工作，善于沟通，
-贴近用户

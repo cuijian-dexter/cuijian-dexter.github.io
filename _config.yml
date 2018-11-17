@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 崔健(Cui Jian) # add your name
 author-img: author.jpg # add your photo
-about-author: 我是一个web前端开发者. 热爱Coding, 动漫, 美剧, 运动等  # add description
+about-author: web前端开发者. 热爱Coding, 动漫, 美剧, 运动等<br/>供自我的提高和笔记只用，欢迎批评和指正  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-qq: 1109883925 # add your QQ handle

@@ -1,0 +1,27 @@
+---
+layout: post
+title: js技巧篇（三）不刷新页面，更新URL地址
+date: 2018-11-16 20:02:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: js-1.png
+fig-caption: # Add figcaption (optional)
+tags: [Javascript, skill，history]
+---
+需求为不刷新页面，更新URL地址
+
+实现方法：history.pushState
+
+不会触发页面的刷新，只会导致history对象发生变化，地址栏会有反应
+pushState方法有三个参数：
+- state：一个与指定网址相关的状态对象，popstate事件触发的时候，该对象会传入回调函数，不需要传null
+- title：新页面的标题，不需要传null
+- url：新网址，必须与当前页面在同一个域。地址栏会显示这个网址
+
+
+history对象提供了一系列方法，允许在浏览历史之间移动。H5特性,这里简单介绍几个常用的方法
+
+1. back()：移动到上一个访问页面，等同于浏览器的后退键。
+
+2. forward()：移动到下一个访问页面，等同于浏览器的前进键。
+
+3. go()：接受一个整数作为参数，移动到该整数指定的页面，比如go(1)相当于forward()，go(-1)相当于back()。
