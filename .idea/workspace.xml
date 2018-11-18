@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa272dc1-557f-4550-9ced-25a25152b69b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-17-jsSkill1.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-17-jsSkill2.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-17-jsSkill3.markdown" afterDir="false" />
+    <list default="true" id="aa272dc1-557f-4550-9ced-25a25152b69b" name="Default" comment="js技巧篇1，2，3">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-11-17-jsSkill4.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/notebook.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,32 +19,37 @@
     <session id="128756884">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="markdown" value="999" />
+          <entry key="markdown" value="1560" />
           <entry key="md" value="2" />
+          <entry key="txt" value="12" />
           <entry key="yml" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1001" />
+          <entry key="PLAIN_TEXT" value="1574" />
           <entry key="YAML" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="markdown" value="4" />
+          <entry key="jpg" value="1" />
+          <entry key="markdown" value="5" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -56,37 +58,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-19-git-lines.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill1.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
+            <state relative-caret-position="1302">
               <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill2.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="399">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -96,6 +80,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill4.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -230,6 +223,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-11-17-jsSkill3.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-11-17-jsSkill2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-17-jsSkill4.markdown" />
       </list>
     </option>
   </component>
@@ -249,9 +243,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-260" />
+    <option name="y" value="52" />
+    <option name="width" value="1262" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -302,18 +297,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img" />
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\icon" />
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\flowchart" />
+      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\js-sequence-diagrams-deps" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\_posts" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img" />
       <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\icon" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img" />
-      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\icon" />
-      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\flowchart" />
-      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\js\js-sequence-diagrams-deps" />
-      <recent name="D:\githubIO\cuijian-dexter.github.io\assets\img\favicon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -357,7 +352,8 @@
       <workItem from="1540821486296" duration="1946000" />
       <workItem from="1541427697746" duration="43000" />
       <workItem from="1541428055741" duration="2991000" />
-      <workItem from="1542440713056" duration="4851000" />
+      <workItem from="1542440713056" duration="5357000" />
+      <workItem from="1542516332847" duration="1907000" />
     </task>
     <task id="LOCAL-00001" summary="sdsd">
       <created>1539683615220</created>
@@ -541,20 +537,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541429791089</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="js技巧篇1，2，3">
+      <created>1542445887672</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1542445887672</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67188000" />
+    <option name="totallyTimeSpent" value="69601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20855938" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -567,6 +568,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33672923" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -635,13 +637,10 @@
     <MESSAGE value="12" />
     <MESSAGE value="更新多个commit压缩的文章" />
     <MESSAGE value="更新简历" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新简历" />
+    <MESSAGE value="js技巧篇1，2，3" />
+    <option name="LAST_COMMIT_MESSAGE" value="js技巧篇1，2，3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/home-page.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-12-the-best-organizer-software.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-how-i-rest-from-work.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-10-conference-on-javascript.markdown" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
@@ -786,22 +785,8 @@
     <entry file="file://$PROJECT_DIR$/assets/img/i-rest.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/how-to-start.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/js-1.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-28-my-resume.markdown">
       <provider selected="true" editor-type-id="text-editor">
@@ -817,15 +802,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/js-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/mac.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill1.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
+        <state relative-caret-position="1302">
           <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
         </state>
       </provider>
@@ -837,6 +816,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/mac.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/how-to-start.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-markdown-diagram.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill2.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill3.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -844,10 +850,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill2.markdown">
+    <entry file="file://$PROJECT_DIR$/assets/img/notebook.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-17-jsSkill4.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="662">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
         </state>
       </provider>
     </entry>

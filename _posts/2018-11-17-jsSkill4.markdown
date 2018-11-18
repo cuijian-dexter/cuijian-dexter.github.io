@@ -1,0 +1,61 @@
+---
+layout: post
+title: js技巧篇（四）异步JavaScript
+date: 2018-11-17 10:02:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: js-1.png
+fig-caption: # Add figcaption (optional)
+tags: [Javascript, skill， callback， promise，async，await]
+---
+#### 回调(callback)
+
+回调到处可见。简单说，将函数的引入当作参数处理，什么时候需要调用就（）执行
+
+```javascript
+function add (x, y) {
+  return x + y
+}
+
+function addFive (x, addReference) {
+  return addReference(x, 5) // 15 - 按下按钮，运行机器。
+}
+
+addFive(10, add) // 15
+```
+
+但是会形成"回调地狱"，回调太深可读性不好，因为回调传入，控制权交给别人，可能出现控制反转。
+
+#### Promise
+
+```javascript
+   function getPromise () {
+     return new Promise((resolve) => {
+       setTimeout(resolve, 2000)
+     })
+   }
+
+   function logA () {
+     console.log('A')
+   }
+
+   function logB () {
+     console.log('B')
+   }
+
+   function logCAndThrow () {
+     console.log('C')
+
+     throw new Error()
+   }
+
+   function catchError () {
+     console.log('Error!')
+   }
+
+   getPromise()
+     .then(logA) // A
+     .then(logB) // B
+     .then(logCAndThrow) // C
+     .catch(catchError) // Error!
+```
+
